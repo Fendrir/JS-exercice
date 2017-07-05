@@ -15,3 +15,7 @@ mois[2];
 
 mois[5];
 
+// Exercice 4
+
+mois[10];
+
