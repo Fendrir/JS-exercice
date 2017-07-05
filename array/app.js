@@ -1,7 +1,7 @@
-// var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
+var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
 
-// array[2];
-// array[3];
+array[2];
+array[3];
 
 // Exercice 1
 
@@ -27,3 +27,9 @@ console.log("la réponse de l'éxercice 5 est : " + mois[7]);
 // Exercice 6
 
 console.log("la réponse de l'éxercice 6 est : " + mois.join());
+
+// Exercice 8
+
+array.push("Courgette");
+
+console.log("la réponse de l'éexercie 8 est : " + array.join());
