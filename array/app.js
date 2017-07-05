@@ -9,15 +9,17 @@ var mois = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "a
 
 // Exercice 2
 
-document.write("la réponse de l'éxercice 2 est : " + mois[2]);
+console.log("la réponse de l'éxercice 2 est : " + mois[2]);
 
 // Exercice 3
 
-document.write("la réponse de l'éxercice 3 est : " + mois[5]);
+console.log("la réponse de l'éxercice 3 est : " + mois[5]);
 
 // Exercice 4
 
-document.write("la réponse de l'éxercice 4 est : " + mois[10]);
+console.log("la réponse de l'éxercice 4 est : " + mois[10]);
 
 // Exercice 5
 
+mois[7]="aoùt";
+console.log("la réponse de l'éxercice 5 est : mois[7]="aoùt";");
