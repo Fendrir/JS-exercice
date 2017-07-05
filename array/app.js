@@ -28,6 +28,19 @@ console.log("la réponse de l'éxercice 5 est : " + mois[7]);
 
 console.log("la réponse de l'éxercice 6 est : " + mois.join());
 
+// correction 6
+
+for (var i = 0; i < 12; i++){
+
+console.log(mois[i]);
+
+}
+
+
+// Autre façon
+
+console.log(mois.length);
+
 // Exercice 8
 
 array.push("Courgette");
@@ -39,3 +52,15 @@ console.log("la réponse de l'éexercie 8 est : " + array.join());
 array[4].push("Citron");
 
 console.log("la réponse de l'éexercie 9 est : " + array.join());
+
+
+// Exercice 10
+
+
+array.splice(1, 1);
+console.log(array);
+
+// Exercice 11
+
+array.splice( 2, 0 , "Poire");
+console.log(array);
