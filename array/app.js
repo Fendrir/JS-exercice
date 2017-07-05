@@ -33,3 +33,9 @@ console.log("la réponse de l'éxercice 6 est : " + mois.join());
 array.push("Courgette");
 
 console.log("la réponse de l'éexercie 8 est : " + array.join());
+
+// Exercice 9
+
+array[4].push("Citron");
+
+console.log("la réponse de l'éexercie 9 est : " + array.join());
