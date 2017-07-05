@@ -12,3 +12,6 @@ var mois = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "a
 mois[2];
 
 // Exercice 3
+
+mois[5];
+
