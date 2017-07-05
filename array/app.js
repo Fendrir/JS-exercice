@@ -5,4 +5,10 @@ array[3];
 
 // Exercice 1
 
-var array = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "décembre"];
+var mois = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "décembre"];
+
+// Exercice 2
+
+mois[2];
+
+// Exercice 3
